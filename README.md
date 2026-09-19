@@ -7,6 +7,10 @@
 
 ## 🚀 About Me / Sobre mí
 
+- 🛠️ Especialista en mantenimiento de hardware, optimización de sistemas y privacidad.
+- 🐧 Apasionado por la automatización, los scripts de terminal y el software de código abierto.
+- 🌐 Desarrollando soluciones limpias y transparentes para **Windows**, **macOS** y **Linux**.
+
 - 🛠️ Specialist in hardware maintenance, system optimization, and deep cleaning.
 - 🐧 Passionate about terminal scripts, automation, and open-source software.
 - 🌐 Creator of cross-platform privacy tools for **Windows**, **macOS**, and **Linux**.
