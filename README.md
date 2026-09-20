@@ -15,13 +15,14 @@
 - 🐧 Passionate about terminal scripts, automation, and open-source software.
 - 🌐 Creator of cross-platform privacy tools for **Windows**, **macOS**, and **Linux**.
 
-## 🧹 Mis Proyectos Principales / Featured Projects (Privacy Cleaners)
+### 🧹 Mis Proyectos Principales / Featured Projects (Privacy & Optimization)
 
 | Proyecto / Project | Sistema / OS | Descripción / Description |
 | :--- | :--- | :--- |
-| 🪟 **[WinPrivacy-Cleaner](https://github.com/MrRockero/WinPrivacy-Cleaner)** | Windows 10/11 | **[ES]** Script en PowerShell para eliminar temporales, caché y rastros del sistema.<br>**[EN]** PowerShell script to remove temporary files, cache, and system traces. |
-| 🍎 **[MacPrivacy-Cleaner](https://github.com/MrRockero/MacPrivacy-Cleaner)** | macOS | **[ES]** Script en Shell/Zsh para purgar caché, logs y liberar memoria RAM inactiva.<br>**[EN]** Shell/Zsh script to purge cache, logs, and free inactive RAM. |
-| 🐧 **[LinuxPrivacy-Cleaner](https://github.com/MrRockero/LinuxPrivacy-Cleaner)** | Linux | **[ES]** Script en Bash para limpiar paquetes huérfanos, historial de systemd y caché.<br>**[EN]** Bash script to clean orphan packages, systemd journal logs, and cache. |
+| 🪟 [WinPrivacy-Cleaner](https://github.com/MrRockero/WinPrivacy-Cleaner) | Windows 10/11 | **[ES]** Script en PowerShell para eliminar temporales, caché y rastros del sistema.<br>**[EN]** PowerShell script to remove temporary files, cache, and system traces. |
+| 🛡️ [WinPrivacy-Debloater](https://github.com/MrRockero/WinPrivacy-Debloater) | Windows 10/11 | **[ES]** Script en PowerShell para eliminar telemetría, rastreo y apps preinstaladas.<br>**[EN]** PowerShell script to disable telemetry, background tracking, and bloatware. |
+| 🍎 [MacPrivacy-Cleaner](https://github.com/MrRockero/MacPrivacy-Cleaner) | macOS | **[ES]** Script en Shell/Zsh para purgar caché, logs y liberar memoria RAM inactiva.<br>**[EN]** Shell/Zsh script to purge cache, logs, and free inactive RAM. |
+| 🐧 [LinuxPrivacy-Cleaner](https://github.com/MrRockero/LinuxPrivacy-Cleaner) | Linux | **[ES]** Script en Bash para limpiar paquetes huérfanos, historial de systemd y caché.<br>**[EN]** Bash script to clean orphan packages, systemd journal logs, and cache. |
 
 ---
 
