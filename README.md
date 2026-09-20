@@ -21,9 +21,9 @@
 | :--- | :--- | :--- |
 | 🪟 [WinPrivacy-Cleaner](https://github.com/MrRockero/WinPrivacy-Cleaner) | Windows 10/11 | **[ES]** Script en PowerShell para eliminar temporales, caché y rastros del sistema.<br>**[EN]** PowerShell script to remove temporary files, cache, and system traces. |
 | 🛡️ [WinPrivacy-Debloater](https://github.com/MrRockero/WinPrivacy-Debloater) | Windows 10/11 | **[ES]** Script en PowerShell para eliminar telemetría, rastreo y apps preinstaladas.<br>**[EN]** PowerShell script to disable telemetry, background tracking, and bloatware. |
+| 🌐 [WinPrivacy-DNS](https://github.com/MrRockero/WinPrivacy-DNS) | Windows 10/11 | **[ES]** Script en PowerShell para cifrado DoH, DNS privadas y bloqueo de dominios en hosts.<br>**[EN]** PowerShell script for DoH encryption, private DNS, and hosts domain blocking. |
 | 🍎 [MacPrivacy-Cleaner](https://github.com/MrRockero/MacPrivacy-Cleaner) | macOS | **[ES]** Script en Shell/Zsh para purgar caché, logs y liberar memoria RAM inactiva.<br>**[EN]** Shell/Zsh script to purge cache, logs, and free inactive RAM. |
 | 🐧 [LinuxPrivacy-Cleaner](https://github.com/MrRockero/LinuxPrivacy-Cleaner) | Linux | **[ES]** Script en Bash para limpiar paquetes huérfanos, historial de systemd y caché.<br>**[EN]** Bash script to clean orphan packages, systemd journal logs, and cache. |
-
 ---
 
 ## 🛠️ Tecnologías y Entornos / Technologies & Environments
